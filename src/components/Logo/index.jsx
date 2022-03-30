@@ -1,0 +1,9 @@
+import "./styles.css";
+
+export default function Logo() {
+  return (
+    <h1 className="logo">
+      <span>Last</span>Notes
+    </h1>
+  );
+}
